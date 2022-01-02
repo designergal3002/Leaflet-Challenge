@@ -1,3 +1,6 @@
+Project deployed at https://designergal3002.github.io/Leaflet-Challenge/
+ISSUES LOADING THE DATA. ALSO ATTACHED LINK ON BOOTCAMP SPOT.
+
 # Leaflet-Challenge
 Leaflet Homework: Visualizing Data with Leaflet
 
